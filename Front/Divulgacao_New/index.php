@@ -89,7 +89,7 @@ session_start(); // Para futuras funcionalidades, caso queira usar sessão
 
 <?php include 'nav_div.php'; ?> 
 
-  <div class="hero overlay" style="background-image: url('images/bg_3.jpg');">
+  <div class="hero" style="background-image: url('images/bg_3.jpg');">
     <div class="container">
       <div class="row align-items-center justify-content-center text-center">
         <div class="col-lg-5 col-md-8 col-sm-10">
