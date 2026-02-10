@@ -59,7 +59,7 @@ session_start(); // Para gerenciamento de sessão, se necessário
 
 <?php include 'nav_div.php'; ?> 
 
-  <div class="hero overlay" style="background-image: url('images/bg_3.jpg');">
+  <div class="hero" style="background-image: url('images/bg_3.jpg');">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-9 mx-auto text-center">
@@ -77,14 +77,14 @@ session_start(); // Para gerenciamento de sessão, se necessário
       </div>
       <div class="form">
         <h3 style="margin-top: 30px;">FAZER MATRÍCULA AGORA!!!</h3>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfy2oWCKkH75VGBrcBEptNYzXtDP2-1tWvou_ePPtoQ0cmm6w/viewform" target="_blank">
+        <a href="https://api.whatsapp.com/send/?phone=5515991236868&text=Ol%C3%A1%2C+Gostaria+de+saber+mais+informa%C3%A7%C3%B5es&type=phone_number&app_absent=0&utm_source=ig" target="_blank">
           <button type="button">CLIQUE AQUI PARA REALIZAR SUA MATRÍCULA</button>
         </a>
         <div class="social-icons">
           <a href="https://www.instagram.com/newfootball_aiqfome" target="_blank" class="icon-link instagram" aria-label="Instagram">
             <i class="bi bi-instagram"></i>
           </a>
-          <a href="https://wa.me/5511999999999" target="_blank" class="icon-link whatsapp" aria-label="WhatsApp">
+          <a href="https://api.whatsapp.com/send/?phone=5515991236868&text=Ol%C3%A1%2C+Gostaria+de+saber+mais+informa%C3%A7%C3%B5es&type=phone_number&app_absent=0&utm_source=ig" target="_blank" class="icon-link whatsapp" aria-label="WhatsApp">
             <i class="bi bi-whatsapp"></i>
           </a>
         </div>
