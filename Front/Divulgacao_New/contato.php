@@ -1,6 +1,7 @@
 <?php
 // contato.php
 session_start(); // Para gerenciamento de sessão, se necessário
+echo "<h1 style='color:red'>TESTE CACHE ".date('H:i:s')."</h1>";
 ?>
 
 <!DOCTYPE html>

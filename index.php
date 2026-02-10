@@ -1,6 +1,5 @@
-<!-- <?php
+ <?php
 
-// header("Location: ./Front/Divulgacao_New/");
-// exit; 
-echo "SITE ATUALIZADO NO SERVIDOR";
-?> -->
+header("Location: ./Front/Divulgacao_New/");
+exit; 
+?> 
